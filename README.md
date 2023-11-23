@@ -78,7 +78,13 @@ With a decent CPU but without any GPU assistance, expect output on the order of 
 | [pinecone.io](https://www.pinecone.io/learn/chunking-strategies/) | Chunking Strategies for LLM Applications |
 | [dev.to](https://dev.to/peterabel/what-chunk-size-and-chunk-overlap-should-you-use-4338) | What chunk size and chunk overlap should you use? |
 
-Others
+### Others
 | Links | Description |
 | ------ | ------ |
 | [MicroWebSrv](https://github.com/jczic/MicroWebSrv) | MicroWebSrv is a micro HTTP Web server that supports WebSockets, html/python language templating and routing handlers, for MicroPython (principally used on ESP32 and Pycom modules. Now supports all variants of Pyboard D-series from the makers of Micropython) |
+
+# Glossary
+
+| Term | Description
+| ------- | ------ |
+| Token | The basic unit of text that the model can process (characters, words, punctuation marks, etc). | 
