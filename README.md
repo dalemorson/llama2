@@ -17,7 +17,7 @@ I've provided some getting started scripts in this repo covering various topics,
 | [local_data_ingestion](/local_data_ingestion/README.md) | Following on from the quick start, this example will use locally ingested data. Use [Llama Hub](https://llamahub.ai/) for more custom data sources and plugins for [LlamaIndex](https://www.llamaindex.ai/) and [LangChain](https://www.langchain.com/). | 
 | [more_examples](/more_examples/README.md) | Some further examples like HelloLlama, using prompts, who are you? and loading a PDF document. | 
 | [llama_index](/data_augmentation_llama_index/README.md) | Learn how to use [LlamaIndex](https://www.llamaindex.ai/) to ingest and index log data from [LogHub](https://github.com/logpai/loghub). |
-| [lang_chain](/lang_chain/README.md) | [LangChain](https://www.langchain.com/) is an open source framework for building LLM powered applications. |
+| [lang_chain](/langchain/README.md) | [LangChain](https://www.langchain.com/) is an open source framework for building LLM powered applications. |
 | [chunking](/chunking/README.md) | Chunking data with LlamaIndex. | 
 | [performance_fine_tuning](/performance_fine_tuning/README.md) | How to improve memory and computing limitations running Llama 2 locally.  | 
 | [cloud_hosting](/cloud_hosting/README.md) | A look into cloud hosting options for Llama 2. | 
