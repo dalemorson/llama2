@@ -2,10 +2,10 @@
 
 <!-- TOC -->
 
-- [Llama 2](#llama-2)
-    - [What is Llama 2?](#what-is-llama-2)
-    - [Getting Involved!](#getting-involved)
-    - [Try it out!](#try-it-out)
+- [:llama: Llama 2](#llama-llama-2)
+    - [:man_shrugging: What is Llama 2?](#man_shrugging-what-is-llama-2)
+    - [Getting involved with this repo](#getting-involved-with-this-repo)
+    - [Learn more!](#learn-more)
     - [Useful Frameworks and Libraries](#useful-frameworks-and-libraries)
 - [CPU vs GPU Comparisons](#cpu-vs-gpu-comparisons)
 - [Limitations](#limitations)
@@ -20,16 +20,16 @@
 
 <!-- /TOC -->
 
-## What is Llama 2?
+## :man_shrugging: What is Llama 2?
 Llama 2 is Meta's open source large language model (LLM). It's basically the Facebook parent company's response to OpenAI's GPT models and Google's AI models like PaLM 2—but with one key difference: it's freely available for almost anyone to use for research and commercial purposes.
 
 Meta have a great [Getting Started](https://ai.meta.com/llama/get-started/) page as well as a [Getting to Know LLama](https://github.com/facebookresearch/llama-recipes/blob/main/examples/Getting_to_know_Llama.ipynb) Juypter book.
 
-## Getting Involved!
+## Getting involved with this repo
 - Please raise a pull request if you'd like to contribute to this repo.
 - Or, raise an Issue if you'd like request new scripts, demos etc.
 
-## Try it out!
+## :teacher: Learn more right here in this repo!
 I've provided some getting started scripts in this repo covering various topics, frameworks and libraries.
 | Links | Description |
 | ------ | ------ |
