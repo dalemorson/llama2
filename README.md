@@ -1,5 +1,25 @@
 # Llama 2
 
+<!-- TOC -->
+
+- [Llama 2](#llama-2)
+    - [What is Llama 2?](#what-is-llama-2)
+    - [Getting Involved!](#getting-involved)
+    - [Try it out!](#try-it-out)
+    - [Useful Frameworks and Libraries](#useful-frameworks-and-libraries)
+- [CPU vs GPU Comparisons](#cpu-vs-gpu-comparisons)
+- [Limitations](#limitations)
+- [Additional Resources](#additional-resources)
+    - [Getting Started and Reading](#getting-started-and-reading)
+    - [Github](#github)
+    - [Python](#python)
+    - [Performance & Latency](#performance--latency)
+    - [Fine Tuning and Chunking](#fine-tuning-and-chunking)
+    - [Others](#others)
+- [Glossary](#glossary)
+
+<!-- /TOC -->
+
 ## What is Llama 2?
 Llama 2 is Meta's open source large language model (LLM). It's basically the Facebook parent company's response to OpenAI's GPT models and Google's AI models like PaLM 2—but with one key difference: it's freely available for almost anyone to use for research and commercial purposes.
 
