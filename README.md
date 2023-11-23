@@ -43,7 +43,7 @@ I've provided some getting started scripts in this repo covering various topics,
 | [cloud_hosting](/cloud_hosting/README.md) | A look into cloud hosting options for Llama 2. | 
 | [summarisation](/summarisation/README.md) | A deeper look into summarising data. |
 | [fast_api](/fast_api/README.md) | Serve Llama 2 as a hosted Rest API using the [FastAPI](https://fastapi.tiangolo.com/) framework. |
-| [hosting_llm_api](/hosting_llm_api/README.md) | Other options for hosting Llama 2 as an API. |
+| [llama-2-api](/llama-2-api/README.md) | Host Llama 2 as an API using llama2-cpp-python[server] library. |
 | [code_llama](/code_llama/README.md) | Code Llama is an AI model built on top of Llama 2, fine-tuned for generating and discussing code. |
 
 ## Useful Frameworks and Libraries
