@@ -1,4 +1,4 @@
-# Llama 2
+# :llama: Llama 2
 
 <!-- TOC -->
 
