@@ -112,6 +112,3 @@ Here are the answers the script above gave me the the following questions:
 **Response:** JupyterGoBoom is considered obsolete because modern software developers have come to realize that Jupyter notebooks become unmaintainable all by themselves.
 
 Both answers are consistent with the information written in the ingested text documents. The AI is successfully answering questions about our custom content!
-
-# Jump to Data Augmentation with LlamaIndex next
-[03_data_augmentation_llama_index](/03_data_augmentation_llama_index/README.md)

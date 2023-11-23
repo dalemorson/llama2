@@ -7,12 +7,17 @@ Llama 2 is Meta's open source large language model (LLM). It's basically the Fac
 I've provided some getting started scripts in this repo.
 | Links | Description |
 | ------ | ------ |
-| [01_quick_start](/01_quick_start/README.md) | Learn the basics of Llama 2 with a question and answer response locally using Python, without requiring internet, registration, or API keys. |
-| [02_local_data_ingestion](/02_local_data_ingestion/README.md) | Following on from the quick start, this example will use locally ingested data. Use [Llama Hub](https://llamahub.ai/) for more custom data sources and plugins for [LlamaIndex](https://www.llamaindex.ai/) and [LangChain](https://www.langchain.com/). | 
-| [03_data_augmentation_llama_index](/03_data_augmentation_llama_index/README.md) | Learn how to use [LlamaIndex](https://www.llamaindex.ai/) to ingest and index log data from [LogHub](https://github.com/logpai/loghub). |
-| [04_more_examples](/04_more_examples/README.md) | Some further examples like HelloLlama, using prompts, who are you? and loaded a PDF document. | 
-| [05_fast_api](/05_fast_api/README.md) | Serve Llama 2 as a hosted Rest API using the [FastAPI](https://fastapi.tiangolo.com/) framework. |
-| [06_soar_insights_api](/06_soar_insights_api/README.md) | A Llama 2 REST API to provide summarisation of SOAR data and provide insights.  | 
+| [quick_start](/quick_start/README.md) | Learn the basics of Llama 2 with a question and answer response locally using Python, without requiring internet, registration, or API keys. |
+| [local_data_ingestion](/local_data_ingestion/README.md) | Following on from the quick start, this example will use locally ingested data. Use [Llama Hub](https://llamahub.ai/) for more custom data sources and plugins for [LlamaIndex](https://www.llamaindex.ai/) and [LangChain](https://www.langchain.com/). | 
+| [more_examples](/more_examples/README.md) | Some further examples like HelloLlama, using prompts, who are you? and loading a PDF document. | 
+| [data_augmentation_llama_index](/data_augmentation_llama_index/README.md) | Learn how to use [LlamaIndex](https://www.llamaindex.ai/) to ingest and index log data from [LogHub](https://github.com/logpai/loghub). |
+| [chunking](/chunking/README.md) | Chunking data with LlamaIndex. | 
+| [performance_fine_tuning](/performance_fine_tuning/README.md) | How to improve memory and computing limitations running Llama 2 locally.  | 
+| [cloud_hosting](/cloud_hosting/README.md) | A look into cloud hosting options for Llama 2. | 
+| [summarisation](/summarisation/README.md) | A deeper look into summarising data. |
+| [fast_api](/fast_api/README.md) | Serve Llama 2 as a hosted Rest API using the [FastAPI](https://fastapi.tiangolo.com/) framework. |
+| [hosting_llm_api](/hosting_llm_api/README.md) | Other options for hosting Llama 2 as an API. |
+| [soar_insights_api](/soar_insights_api/README.md) | An experimental Llama 2 REST API to provide summarisation of SOAR data and provide insights. | 
 
 ## Useful Frameworks and Libraries
 | Links | Description |

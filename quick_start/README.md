@@ -51,6 +51,3 @@ It took my system 7 seconds to generate this response:
 **Question:** What are the names of the days of the week?
 
 **Answer:** The names of the days of the week, in order, are: Monday Tuesday Wednesday Thursday Friday Saturday Sunday
-
-# Jump to Local Data Ingestion next
-[02_local_data_ingestion](/02_local_data_ingestion/README.md)
