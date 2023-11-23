@@ -5,7 +5,7 @@
 - [:llama: Llama 2](#llama-llama-2)
     - [:man_shrugging: What is Llama 2?](#man_shrugging-what-is-llama-2)
     - [Getting involved with this repo](#getting-involved-with-this-repo)
-    - [Learn more!](#learn-more)
+    - [:teacher: Learn more right here in this repo!](#teacher-learn-more-right-here-in-this-repo)
     - [Useful Frameworks and Libraries](#useful-frameworks-and-libraries)
 - [CPU vs GPU Comparisons](#cpu-vs-gpu-comparisons)
 - [Limitations](#limitations)
@@ -45,7 +45,6 @@ I've provided some getting started scripts in this repo covering various topics,
 | [fast_api](/fast_api/README.md) | Serve Llama 2 as a hosted Rest API using the [FastAPI](https://fastapi.tiangolo.com/) framework. |
 | [hosting_llm_api](/hosting_llm_api/README.md) | Other options for hosting Llama 2 as an API. |
 | [code_llama](/code_llama/README.md) | Code Llama is an AI model built on top of Llama 2, fine-tuned for generating and discussing code. |
-| [soar_insights_api](/soar_insights_api/README.md) | An experimental Llama 2 REST API to provide summarisation of SOAR data and provide insights. | 
 
 ## Useful Frameworks and Libraries
 | Links | Description |
