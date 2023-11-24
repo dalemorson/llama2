@@ -7,8 +7,6 @@
     - [Getting involved with this repo](#getting-involved-with-this-repo)
     - [:teacher: Learn more right here in this repo!](#teacher-learn-more-right-here-in-this-repo)
     - [Useful Frameworks and Libraries](#useful-frameworks-and-libraries)
-- [CPU vs GPU Comparisons](#cpu-vs-gpu-comparisons)
-- [Limitations](#limitations)
 - [Additional Resources](#additional-resources)
     - [Getting Started and Reading](#getting-started-and-reading)
     - [Github](#github)
@@ -56,9 +54,6 @@ I've provided some getting started scripts in this repo covering various topics,
 | [HuggingFace](https://huggingface.co/) | The platform where the machine learning community collaborates on models, datasets, and applications. |
 | [FastAPI](https://fastapi.tiangolo.com/) | FastAPI framework, high performance, easy to learn, fast to code, ready for production | 
 | [Code Llama](https://about.fb.com/news/2023/08/code-llama-ai-for-coding/) | Code Llama is an AI model built on top of Llama 2, fine-tuned for generating and discussing code. |
-
-# Limitations
-
 
 # Additional Resources
 
