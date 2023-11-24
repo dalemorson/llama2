@@ -57,14 +57,6 @@ I've provided some getting started scripts in this repo covering various topics,
 | [FastAPI](https://fastapi.tiangolo.com/) | FastAPI framework, high performance, easy to learn, fast to code, ready for production | 
 | [Code Llama](https://about.fb.com/news/2023/08/code-llama-ai-for-coding/) | Code Llama is an AI model built on top of Llama 2, fine-tuned for generating and discussing code. |
 
-# CPU vs GPU Comparisons
-With a decent CPU but without any GPU assistance, expect output on the order of 1 token per second, and excruciatingly slow prompt ingestion. Any decent Nvidia GPU will dramatically speed up ingestion, but for fast generation, you need 48GB VRAM to fit the entire model. That means 2x RTX 3090 or better.
-
-| Azure Virtual Machine Size      | CPU | GPU | Time to Response in ms |
-| ----------- | ----------- | ----------- | ----------- |
-| Standard_D4s_v4 | Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz | None | xxxx ms |
-| NC4as_T4_v3   | Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz | 16GB Nvidia Tesla T4 GPU | xxxx ms |
-
 # Limitations
 
 
