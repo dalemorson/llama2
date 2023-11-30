@@ -46,7 +46,6 @@ output = LLM(prompt)
 # display the response
 print(output["choices"][0]["text"])
 ```
-It took my system 7 seconds to generate this response:
 
 **Question:** What are the names of the days of the week?
 
